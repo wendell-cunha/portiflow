@@ -1,0 +1,49 @@
+.menuIn {
+    margin top: 0px;
+    margin left: 0px;
+    margin width: 1920px;
+    margin height: 120px;
+    
+}
+
+#port {
+    top: 37px;
+    left: 140px;
+    width: 180px;
+    height: 49px;
+    margin-left: 140px;
+}
+
+#menu {
+    top: 50px;
+    left: 1228px;
+    width: 552px;
+    height: 30px;
+    margin-left: 980px;
+
+}
+
+#imagine {
+    top: 423px;
+    left: 140px;
+    width: 1920px;
+    height: 780px;
+}
+
+.aah {
+    top: 992px;
+    left: 1382px;
+    width: 398px;
+    height: 398px;
+}
+
+.f1 {
+    display: inline-block;
+}
+
+.redes {
+    top: 2306px;
+    left: 0px;
+    width: 1920px;
+    height: 126px;
+}
